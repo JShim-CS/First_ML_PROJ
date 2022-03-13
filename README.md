@@ -7,7 +7,7 @@ needs:
 -Pyplot
 -Pandas
 -Numpy
-/n
+
 
 CSV pulled from:
 https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
