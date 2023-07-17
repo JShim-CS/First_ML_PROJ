@@ -1,5 +1,5 @@
 # First_ML_PROJ
-Linear regression to predict Amazon stock prices using market open prices
+created to predict Amazon stock prices using market open prices
 
 CSV pulled from:
 https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
